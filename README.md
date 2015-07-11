@@ -5,5 +5,5 @@
 
 &#8226;明 慧 期 刊 (pdf) 在线阅读网址：<br />
   <a href="http://356.duckdns.org/p/" target="_blank">网址一</a>
-  <a href="http://73.myz.info/p/" target="_blank">网址二</a>
-  <a href="http://255.dtdns.net/p/" target="_blank">网址三</a><br />
+　<a href="http://73.myz.info/p/" target="_blank">网址二</a>
+　<a href="http://255.dtdns.net/p/" target="_blank">网址三</a><br />
